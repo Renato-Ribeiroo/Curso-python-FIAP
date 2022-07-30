@@ -5,7 +5,7 @@
 
 * Criados modelos de machine learning para treinar e testar os dados
 
-* Plotamos os resultados dos modelos e utilizando matplot
+* Plotamos os resultados dos modelos utilizando matplotlib
 
 <h3 align="left"> Algoritimo PLN Utilizando API WATSON </h3>
 
