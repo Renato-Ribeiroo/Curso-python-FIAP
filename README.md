@@ -5,7 +5,15 @@
 
 * Criados modelos de machine learning para treinar e testar os dados
 
-* Plotamos os resultados dos modelos e utilizando matplot
+* Plotamos os resultados dos modelos utilizando matplotlib
+
+<h3 align="left"> Algoritimo PLN Utilizando API WATSON </h3>
+
+* Criamos uma API para consumir e utilizar o IBM Watson
+
+* Efetuamos o login na API através do Python
+
+* Enviamos textos para o Watson analizar e nos retornar
 
 ## ✔️ Tecnologia utilizada
 
